@@ -1,0 +1,2 @@
+# EnvSetup
+set up linux
